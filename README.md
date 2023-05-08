@@ -12,8 +12,4 @@ The source code is found in the server.js file, relevant css and js code can be 
 
 ## Link to Deployed Application
 
-N/A
-
-## Link to demo video
-
-N/A
+The link to the deployed application can be found here : https://cnguyen7-note-taker.herokuapp.com/
